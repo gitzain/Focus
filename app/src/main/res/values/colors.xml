@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Theme 1 colors
+      -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTitleText">#FFFFFF</color>
+    <color name="colorSubtitleText">#FFFFFF</color>
+
+    <color name="colorErrorRed">#E63948</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#3395ff</color>
+    <color name="bg_screen3">#20d2bb</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <color name="dot_active">#B3FFFFFF</color>
+    <color name="dot_inactive">#40000000</color>
+
+
+    <color name="transparent">#00FFFFFF</color>
+</resources>

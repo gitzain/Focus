@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Get Focus</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">FINISH</string>
+
+    <string name="title_activity_error">Oops!</string>
+    <string name="desc_activity_error">You need to give this app ""DO NOT DISTURB"" permission.</string>
+
+    <string name="slide_1_title">Ready To Go!</string>
+    <string name="slide_1_desc">Place your phone face down on a flat surface to turn off all alerts and notifcations.</string>
+
+
+    <string name="slide_2_title">Ready To Go!</string>
+    <string name="slide_2_desc">Place your phone face down on a flat surface to turn off all alerts and notifcations.</string>
+
+    <string name="slide_3_title">Increase Productivity</string>
+    <string name="slide_3_desc">Get focused and get more work done!</string>
+
+</resources>
